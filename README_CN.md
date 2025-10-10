@@ -8,8 +8,6 @@
 |
 [![贡献指南](https://img.shields.io/badge/-%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97-6366f1?logo=github&style=flat-square&logoColor=white)](contributing.md)
 |
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d28df179-5814-4a4d-ae41-c65a5f934e5b/deploy-status)](https://app.netlify.com/projects/imageflowdoc/deploys)
-|
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Yuri-NagaSaki/ImageFlow)
 </div>
 

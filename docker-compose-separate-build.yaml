@@ -37,7 +37,7 @@ services:
     depends_on:
       - redis
     healthcheck:
-      test: [ "CMD", "wget", "-q", "--spider", "http://localhost:8686/", "||", "exit", "1" ]
+      test: ["CMD-SHELL", "wget -q --spider http://127.0.0.1:8686/api/random || exit 1"]
       interval: 30s
       timeout: 10s
       retries: 3
